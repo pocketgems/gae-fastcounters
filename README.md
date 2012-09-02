@@ -9,7 +9,7 @@ Advantages:
 -
  * __Lightweight__: One short file.
  * __Fast and Efficient__
-     - [__Order of magnitude faster__](http://blog.pocketgems.com/TODO)
+     - [__Order of magnitude faster__](http://pocketgems.com/engineering/post.php?s=2012-06-12-open-source-gae-fast-counters)
        than sharding-based counter implementations
      - Uses memcache to minimize datastore interaction and update times
      - Uses the task queue to defer persistent updates until after the user's
